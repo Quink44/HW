@@ -1,4 +1,4 @@
-Report for Program1
+# Report for Program1
 Specifying the length of the array:
 printf("Enter length of array: ");
 scanf("%d", &length);
