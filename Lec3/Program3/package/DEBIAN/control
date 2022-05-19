@@ -1,11 +1,10 @@
-
-Package: pr2
+Package: pr3
 Version: 1.0
 Section: unknown
 Priority: optional
 Depends: libc6
 Architecture: amd64
 Essential: no
-Installed-Size: 16
+Installed-Size: 20
 Maintainer: Quink44 <edik.tovmasian@mail.ru>
-Description: Program 2 from lecture 2
+Description: Program 3 from lecture 3

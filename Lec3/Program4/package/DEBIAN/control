@@ -1,5 +1,4 @@
-
-Package: pr2
+Package: pr4
 Version: 1.0
 Section: unknown
 Priority: optional
@@ -8,4 +7,4 @@ Architecture: amd64
 Essential: no
 Installed-Size: 16
 Maintainer: Quink44 <edik.tovmasian@mail.ru>
-Description: Program 2 from lecture 2
+Description: Program 4 from lecture 3
